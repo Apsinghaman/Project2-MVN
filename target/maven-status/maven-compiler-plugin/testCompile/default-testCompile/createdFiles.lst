@@ -1,0 +1,5 @@
+TestANZ\Autentication\AbstractPageStepDefinition.class
+TestANZ\Utility\Webconnector.class
+TestANZ\Autentication\PasswordTest1.class
+TestANZ\Autentication\LogonPageTest.class
+TestANZ\Autentication\TestRunner1.class
